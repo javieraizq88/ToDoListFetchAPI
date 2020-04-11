@@ -1,3 +1,8 @@
+body{
+    background-color: rgb(231, 250, 228);
+}
+
+
 .list-group-item .fa-trash {
     display: none;
 }
