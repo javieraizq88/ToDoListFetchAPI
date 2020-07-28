@@ -174,6 +174,7 @@ function App() {
         <div className="row pb-2">
           <div className="col">
             <button
+            id="boton"
               className="btn btn-primary btn-block btn-sm"
               onClick={() => createTodos(apiURL)}
             >
@@ -182,6 +183,7 @@ function App() {
           </div>
           <div className="col">
             <button
+            id="boton"
               className="btn btn-warning btn-block btn-sm"
               onClick={() => updateTodos(apiURL)}
             >
@@ -190,6 +192,7 @@ function App() {
           </div>
           <div className="col">
             <button
+            id="boton"
               className="btn btn-danger btn-block btn-sm"
               onClick={() => deleteTodos(apiURL)}
             >
