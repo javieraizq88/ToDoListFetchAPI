@@ -143,7 +143,7 @@ function App() {
     <>
       <div className="container">
         <div className="row">
-          <div className="col-md-12 d-flex justify-content-center">
+          <div className="mt-3 mb-3 col-md-12 d-flex justify-content-center">
             <h1>ToDo List</h1>
           </div>
         </div>
