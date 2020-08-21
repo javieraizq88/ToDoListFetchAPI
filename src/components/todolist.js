@@ -20,7 +20,7 @@ const ToDoList = props => {
                         )
                     })
                     : (
-                        <a href="/#"
+                        <a href="#"
                             className="list-group-item list-group-item-action text-center disable">
                             Lista de Tareas Vacia <br />
                             Por favor crear lista antes de agregar una tarea <br />
